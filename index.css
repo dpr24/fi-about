@@ -1,0 +1,38 @@
+h1{ 
+    text-align: center;
+    color: orangered;
+ }
+#byDPR{ 
+    text-align: center;
+    position: relative;
+    top: -2vw;
+    font-size: x-small;
+ }
+ h4{
+    
+    text-align: center
+ }
+
+ .one{ 
+    text-align: center;
+  }
+
+.whatsNew{ 
+    margin: 1vw;
+   }
+
+.whatsNew h2{ 
+    color: orangered;
+    }
+ 
+span{ 
+        color: orangered;
+        font-weight: bold;
+     }
+.whatsinthisapp h2{
+    color: orangered;
+}
+
+.declaration h2{ 
+    color: orangered;
+ }
